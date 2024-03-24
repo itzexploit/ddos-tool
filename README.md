@@ -4,11 +4,15 @@
 ⭐ FOR LINUX : [
 
 sudo apt-get update
+
 sudo apt-get install python3
+
 sudp apt-get install python3-pip
+
 pip3 install colorama fake_useragent
 
 🧨 RUN TOOL : python3 main.py
+
 ]
 
 ⭐ FOR WINDOWS : [
